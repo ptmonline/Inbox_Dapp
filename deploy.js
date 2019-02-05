@@ -22,3 +22,5 @@ const deploy = async () => {
 };
 
 deploy();
+
+//Deployed at 0xa0D2989EC774fFC3B32561bd6d2bbf3b01200205
